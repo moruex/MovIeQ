@@ -19,6 +19,8 @@ function App() {
       <h1>Furkan + Sayar</h1>
       <h1>Ylyas + Yylkybayev</h1>
       <h1>Akif + Tarik + Binici</h1>
+      <h1>Semih + Çantal</h1>
+      <h1>Abdullah + Kural</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
